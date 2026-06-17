@@ -1,40 +1,54 @@
 <div align="center">
 
-# Hi there, I'm breezee919 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20breeze919%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=52&width=100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning)](https://github.com/brezee919)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+Native+Enthusiast;Always+Learning+Something+New)](https://github.com/brezee919)
 
-[![Visitors](https://profile-counter.glitch.me/brezee919/count.svg)](https://github.com/brezee919)
+[![Visitors](https://profile-counter.glitch.me/brezee919/count.svg)](https://github.com/brezee919)&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=brezee919&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brezee919/brezee919/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brezee919/brezee919/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/brezee919/brezee919/output/github-snake.svg" />
+</picture>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **web development & cloud projects**
-- 🌱 I'm currently learning **React, TypeScript, and cloud-native technologies**
-- 💬 Ask me about **JavaScript, Python, and full-stack development**
-- 📫 How to reach me: **s1007669400@gmail.com**
+<table>
+<tr>
+<td valign="top" width="55%">
+
+- 🔭 Currently working on **web development & cloud projects**
+- 🌱 Currently learning **React, TypeScript, and cloud-native tech**
+- 💬 Ask me about **JavaScript, Python, and full-stack dev**
+- 📫 Reach me: **s1007669400@gmail.com**
 - ⚡ Fun fact: **Code is poetry written in logic**
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=brezee919&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" height="170" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,docker,linux,vscode" />
 </p>
 
 ---
@@ -42,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brezee919&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brezee919&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brezee919&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brezee919&layout=compact&theme=radical&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brezee919&theme=darkhub&no-frame=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brezee919&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -56,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/brezee919/web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brezee919&repo=web&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brezee919&repo=web&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   </a>
 </p>
 
@@ -65,18 +79,12 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/brezee919">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:s1007669400@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/brezee919"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:s1007669400@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-
-### "The best way to predict the future is to create it."
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
