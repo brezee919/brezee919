@@ -25,9 +25,9 @@
 <tr>
 <td valign="top" width="55%">
 
-- 🔭 Currently working on **web development & cloud projects**
+- 🔭 Currently working on **web deeplearning & drug prediction model** using **PyTorch & TensorFlow**
 - 🌱 Currently learning **React, TypeScript, and cloud-native tech**
-- 💬 Ask me about **JavaScript, Python, and full-stack dev**
+- 💬 Ask me about **bioinformatics, Python, and full-stack dev**
 - 📫 Reach me: **s1007669400@gmail.com**
 - ⚡ Fun fact: **Code is poetry written in logic**
 
